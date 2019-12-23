@@ -1,0 +1,48 @@
+body {
+  font-family: "Open Sans", sans-serif !important;
+}
+
+h3 {
+  margin-top: 2em;
+}
+
+.App {
+  padding: 0 0 100px;
+}
+
+address {
+  line-height: 1.5em;
+}
+
+.addressCol {
+  padding-bottom: 20px;
+}
+
+.social-icon {
+  height: 60px;
+  margin: 5px 20px 10px 5px;
+}
+
+.social-icon:hover {
+  height: 66px;
+  margin: 2px 17px 7px 2px;
+}
+
+.opening-hours {
+  margin: 0 0 0 -40px;
+  line-height: 2em;
+}
+
+.opening-hours li {
+  border-bottom: 1px solid #333;
+  list-style: none;
+}
+
+.opening-hours li.today {
+  color: #ffac0c;
+  font-weight: bold;
+}
+
+.pull-right {
+  float: right !important;
+}
