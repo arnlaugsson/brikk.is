@@ -18,16 +18,16 @@ function OpeningHours(props) {
       </h3>
       <ul className="opening-hours">
         <li className={isToday(0)}>
-          {t("mondays")} <span className="pull-right">7:30-17:00</span>
+          {t("mondays-23")} <span className="pull-right">7:30-16:00</span>
         </li>
         <li className={isToday(1)}>
-          {t("tuesdays")} <span className="pull-right">7:30-17:00</span>
+          {t("tuesdays-24")} <span className="pull-right">{t("closed")}</span>
         </li>
         <li className={isToday(2)}>
-          {t("wednesdays")} <span className="pull-right">7:30-17:00</span>
+          {t("wednesdays-25")} <span className="pull-right">{t("closed")}</span>
         </li>
         <li className={isToday(3)}>
-          {t("thursdays")} <span className="pull-right">7:30-17:00</span>
+          {t("thursdays-26")} <span className="pull-right">{t("closed")}</span>
         </li>
         <li className={isToday(4)}>
           {t("fridays")} <span className="pull-right">7:30-17:00</span>

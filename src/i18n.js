@@ -19,12 +19,17 @@ const resources = {
       onInstagram: "BRIKK on Instagram",
       emailSubject: "Website query",
       mondays: "Mondays",
+      "mondays-23": "Monday December 23rd",
       tuesdays: "Tuesdays",
+      "tuesdays-24": "Tuesday December 24th",
       wednesdays: "Wednesdays",
+      "wednesdays-25": "Wednesday December 25th",
       thursdays: "Thursdays",
+      "thursdays-26": "Thursday December 26th",
       fridays: "Fridays",
       saturdays: "Saturdays",
-      sundays: "Sundays"
+      sundays: "Sundays",
+      closed: "Closed"
     }
   },
   is: {
@@ -42,12 +47,17 @@ const resources = {
       onInstagram: "BRIKK á Instagram",
       emailSubject: "Fyrirspurn af vef",
       mondays: "Mánudagar",
+      "mondays-23": "Þorláksmessa",
       tuesdays: "Þriðjudagar",
+      "tuesdays-24": "Aðfangadagur",
       wednesdays: "Miðvikudagar",
+      "wednesdays-25": "Jóladagur",
       thursdays: "Fimmtudagar",
+      "thursdays-26": "Annar í jólum",
       fridays: "Föstudagar",
       saturdays: "Laugardagar",
-      sundays: "Sunnudagar"
+      sundays: "Sunnudagar",
+      closed: "Lokað"
     }
   }
 };
