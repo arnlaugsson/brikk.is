@@ -25,7 +25,7 @@ const resources = {
       "tuesdays-31": "Tuesday December 31st",
       wednesdays: "Wednesdays",
       "wednesdays-25": "Wednesday December 25th",
-      "wednesdays-31": "Wednesday January 1st",
+      "wednesdays-01": "Wednesday January 1st",
       thursdays: "Thursdays",
       "thursdays-26": "Thursday December 26th",
       fridays: "Fridays",
