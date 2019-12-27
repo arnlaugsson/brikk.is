@@ -1,5 +1,5 @@
 {
-  "name": "bml",
+  "name": "brikkis",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -36,5 +36,5 @@
     ]
   },
   "keywords": [],
-  "description": ""
+  "description": "Brikk.is website - trying out CodeSandbox"
 }
