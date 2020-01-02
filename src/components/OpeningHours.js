@@ -26,10 +26,10 @@ function OpeningHours(props) {
           {t("mondays")} <span className="pull-right">7:30-17:00</span>
         </li>
         <li className={isToday(2)}>
-          {t("tuesdays-31")} <span className="pull-right">{t("closed")}</span>
+          {t("tuesdays")} <span className="pull-right">7:30-17:00</span>
         </li>
         <li className={isToday(3)}>
-          {t("wednesdays-01")} <span className="pull-right">{t("closed")}</span>
+          {t("wednesdays")} <span className="pull-right">7:30-17:00</span>
         </li>
         <li className={isToday(4)}>
           {t("thursdays")} <span className="pull-right">7:30-17:00</span>
