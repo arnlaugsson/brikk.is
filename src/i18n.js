@@ -19,19 +19,19 @@ const resources = {
       onInstagram: "BRIKK on Instagram",
       emailSubject: "Website query",
       mondays: "Mondays",
-      "mondays-23": "Monday December 23rd",
       tuesdays: "Tuesdays",
-      "tuesdays-24": "Tuesday December 24th",
-      "tuesdays-31": "Tuesday December 31st",
       wednesdays: "Wednesdays",
-      "wednesdays-25": "Wednesday December 25th",
-      "wednesdays-01": "Wednesday January 1st",
       thursdays: "Thursdays",
-      "thursdays-26": "Thursday December 26th",
       fridays: "Fridays",
       saturdays: "Saturdays",
       sundays: "Sundays",
-      closed: "Closed"
+      closed: "Closed",
+      // Special days
+      "thursday-9": "Maundy Thursday (April 9th)",
+      "friday-10": "Good Friday (April 10th)",
+      "saturday-11": "Saturday (April 11th)",
+      "sunday-12": "Easter Sunday (April 12th)",
+      "monday-13": "Easter Monday (April 13th)"
     }
   },
   is: {
@@ -49,19 +49,19 @@ const resources = {
       onInstagram: "BRIKK á Instagram",
       emailSubject: "Fyrirspurn af vef",
       mondays: "Mánudagar",
-      "mondays-23": "Þorláksmessa",
       tuesdays: "Þriðjudagar",
-      "tuesdays-24": "Aðfangadagur",
-      "tuesdays-31": "Gamlársdagur",
       wednesdays: "Miðvikudagar",
-      "wednesdays-25": "Jóladagur",
-      "wednesdays-01": "Nýársdagur",
       thursdays: "Fimmtudagar",
-      "thursdays-26": "Annar í jólum",
       fridays: "Föstudagar",
       saturdays: "Laugardagar",
       sundays: "Sunnudagar",
-      closed: "Lokað"
+      closed: "Lokað",
+      // Special days
+      "thursday-9": "Skírdagur",
+      "friday-10": "Föstudagurinn langi",
+      "saturday-11": "Laugardagur",
+      "sunday-12": "Páskadagur",
+      "monday-13": "Annar í páskum"
     }
   }
 };
